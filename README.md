@@ -52,7 +52,8 @@ Screenshots of the responsivness, pick few devices
 ### Code Validation
 Validate your code HTML, CSS, JS & Python (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories
-Test all your user stories, you an create table | Status | user story
+Test all your user stories, you an create table 
+| Status | user story
 |:-------:|:--------|
 | &check; | description
 - and attach screenshot
