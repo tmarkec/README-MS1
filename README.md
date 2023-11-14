@@ -53,12 +53,16 @@ Screenshots of the responsivness, pick few devices
 Validate your code HTML, CSS, JS & Python (all pages/files need to be validated!!!), display screenshots
 ### Manual Testing user stories
 Test all your user stories, you an create table 
-| Status | user story
+User Story |  Test | Pass
+--- | --- | :---:
+paste here you user story | what is visible to the user and what action they should perform | &check;
+- and attach screenshot
+### Manual Testing features
+Test all your features, you can use the same approach 
+| Status | feature
 |:-------:|:--------|
 | &check; | description
 - and attach screenshot
-### Manual Testing features
-Test all your features, you can confirm result with the screenshot
 
 ## Bugs
 List of bugs and how did you fix them
