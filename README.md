@@ -8,13 +8,13 @@
     * [Database Diagram](#database-diagram)
     
 2. [Features](#features)
-    * [Navigation](#Navigation-bar)
-    * [Footer](#footer)
-    * [Home page](#home-page)
+    * [Navigation](#Navigation)
+    * [Footer](#Footer)
+    * [Home page](#Home-page)
     * [add your pages](#)
-    * [CRUD](#crud)
-    * [Login page](#profile-page)
-    * [Authentication & Authorisation](#authentication-authorisation )
+    * [CRUD](#CRUD)
+    * [Login page](#Profile-page)
+    * [Authentication & Authorisation](#Authentication-Authorisation )
 
 3. [Technologies Used](#technologies-used)
 4. [Libraries](#libraries-used)
@@ -40,12 +40,12 @@ Image of the database diagram for your project, you can name your database model
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms, input fields, CRUD....)
-### navigation-bar
-### footer
-### home-page
+### Navigation
+### Footer
+### Home-page
 ### CRUD
-### profile-page
-### authentication-authorisation 
+### Profile-page
+### Authentication-Authorisation 
 ## Technologies Used
 List of technologies used for your project
 ## Testing
