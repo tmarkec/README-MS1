@@ -80,12 +80,11 @@ This website is deployed to Heroku from a GitHub repository, the following steps
 - On the home page, click **New** and **Create new app** from the drop down.
 - Give the app a name(this must be unique) and select a **region** I chose **Europe** as I am in Europe, Then click **Create app**.
 
-#### Create a database On ElephantSQL
-- Log into the [ElephantSQL](https://www.elephantsql.com/) website and click **Create new Instance**
-- Enter a **Name** and keep the plan as **Tiny Turtle Free**, then **tags** field can be left blank, Select a region closest to you, I selected **EU-West-1(Ireland)** as I'm in Ireland. Then click **Review** and afterward click **create an instance**.
-- On The Dashboard click on your database instance name.
-- You will see the details for your database instance, in the URL section click on the copy icon to copy the database URL.
-- Head over to gitpod and create a **Database URL** environment variable in your env.py file and set it equal to the copied URL.
+#### Create a database 
+- Log into [CIdatabase maker](https://www.heroku.com/](https://dbs.ci-dbs.net/))
+- add your email address in input field and submit the form
+- open database link in your email
+- paste dabase URL in your DATABASE_URL variable in env.py file and in Heroku config vars
 
 #### Deploying to Heroku.
 - Head back over to [heroku](https://www.heroku.com/) and click on your **app** and then go to the **Settings tab**
