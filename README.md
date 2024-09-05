@@ -59,10 +59,10 @@ paste here you user story | what is visible to the user and what action they sho
 - and attach screenshot
 ### Manual Testing features
 Test all your features, you can use the same approach 
-| Status | feature
-|:-------:|:--------|
-| &check; | description
-- and attach screenshot
+| Feature | Action | Status | 
+|:-------:|:--------| :--------|
+| description | user steps | &check; |
+attach screenshot
 
 ## Bugs
 List of bugs and how did you fix them
