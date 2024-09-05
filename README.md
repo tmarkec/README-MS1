@@ -12,8 +12,9 @@
     * [Footer](#footer)
     * [Home page](#home-page)
     * [add your pages](#)
+    * [CRUD](#crud)
     * [Login page](#profile-page)
-    * [Sign up page](#signup-page)
+    * [Authentication & Authorisation](#authentication-authorisation )
 
 3. [Technologies Used](#technologies-used)
 4. [Libraries](#libraries-used)
@@ -39,6 +40,12 @@ Image of the database diagram for your project, you can name your database model
 
 ## Features:
 Explain your features on the website,(navigation, pages, links, forms, input fields, CRUD....)
+### navigation-bar
+### footer
+### home-page
+### CRUD
+### profile-page
+### authentication-authorisation 
 ## Technologies Used
 List of technologies used for your project
 ## Testing
